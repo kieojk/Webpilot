@@ -19,6 +19,8 @@ Dev Team: dev@webpilot.ai
 
 ## Getting Started
 
+用官方的npm源先pnpm install
+
 First, run the development server:
 
 ```bash
